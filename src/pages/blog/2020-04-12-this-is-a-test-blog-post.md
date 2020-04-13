@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et
   scelerisque eleifend. Nulla euismod erat quis consectetur efficitur. Vivamus
   eget pharetra dui.
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/screen-shot-2020-04-08-at-5.07.27-pm.png
 tags:
   - coffee
 ---
